@@ -68,7 +68,7 @@ Useful machine-learning work depends on preparing and reviewing data, but frame 
 
 VisionForge brings these stages into one project workspace. Its development workflow covers video import, frame extraction and filtering, bounding-box annotation, dataset splits, YOLO training, inference review, and exports in common annotation formats.
 
-This builds on my interest in applying computer vision to real imagery problems, including the vegetation-analysis work described in my [geospatial portfolio](PORTFOLIO.md#uav-vegetation-analysis-and-machine-learning).
+This builds on my interest in applying computer vision to real imagery problems, including the vegetation-analysis work described in my [geospatial work](PORTFOLIO.md#uav-vegetation-analysis-and-machine-learning).
 
 **Built with:** React, Electron, Python, FFmpeg, and YOLO tooling.
 
@@ -92,7 +92,7 @@ The aim is to shorten the path from doing the work to producing a clear timeshee
 
 ---
 
-[Back to my profile](https://github.com/elliottcromer4-beep) · [Geospatial portfolio](PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/in/elliott-cromer-a7a9761a7/)
+[Back to my profile](https://github.com/elliottcromer4-beep) · [Geospatial work](PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/in/elliott-cromer-a7a9761a7/)
 
 
 [Have a workflow to improve? Work with me →](WORK-WITH-ME.md)

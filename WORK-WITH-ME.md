@@ -39,4 +39,4 @@ Send a short message on **[LinkedIn](https://www.linkedin.com/in/elliott-cromer-
 
 **A simple opener:** “I currently do ___ using ___. The slow part is ___. I'd like to be able to ___.”
 
-[Back to my profile](https://github.com/elliottcromer4-beep) · [Software projects](PROJECTS.md) · [Geospatial portfolio](PORTFOLIO.md)
+[Back to my profile](https://github.com/elliottcromer4-beep) · [Software projects](PROJECTS.md) · [Geospatial work](PORTFOLIO.md)

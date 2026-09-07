@@ -1,8 +1,6 @@
 # Selected geospatial work
 
-My geospatial work connects field capture, spatial processing, quantitative analysis, and technical reporting. These anonymised summaries draw on projects across infrastructure, marine, and environmental applications.
-
-They describe my professional experience. Client datasets, asset identifiers, and original project deliverables are not included.
+I turn field observations into measurable, usable results: registered scans, geometry assessments, integrated terrain models, and clear technical reports. My work spans infrastructure, marine, and environmental applications.
 
 ## Structural deformation and alignment
 
@@ -14,7 +12,7 @@ I processed terrestrial LiDAR into registered, cleaned, and segmented point clou
 
 Related hydropower work involved isolating structural and mechanical features and measuring alignment at regular vertical intervals. The outputs provided quantitative evidence for engineering review and a reference for subsequent monitoring.
 
-**Methods:** Terrestrial LiDAR · Point-cloud registration · Reference geometry · Deviation analysis · Profiles
+**Methods:** Terrestrial LiDAR Â· Point-cloud registration Â· Reference geometry Â· Deviation analysis Â· Profiles
 
 ## Marine ROV and sonar inspection
 
@@ -26,7 +24,7 @@ I worked with ROV-based sonar and video capture, processing sonar-derived point 
 
 This work required understanding both the limitations of field capture and the processing needed to turn acoustic and visual evidence into usable spatial information.
 
-**Methods:** ROV operations · 3D sonar · Video review · Point-cloud processing · Condition reporting
+**Methods:** ROV operations Â· 3D sonar Â· Video review Â· Point-cloud processing Â· Condition reporting
 
 ## Integrated terrain and bathymetric modelling
 
@@ -38,7 +36,7 @@ I combined aerial LiDAR, terrestrial SLAM LiDAR, and echo-sounder bathymetry in 
 
 The result was a unified terrain and bathymetric model for further analysis, visualisation, and planning.
 
-**Methods:** Multi-sensor integration · Coordinate control · Surface modelling · Transition-zone quality checks
+**Methods:** Multi-sensor integration Â· Coordinate control Â· Surface modelling Â· Transition-zone quality checks
 
 ## Penstock geometry and condition assessment
 
@@ -48,7 +46,7 @@ I processed high-resolution LiDAR into longitudinal profiles and cross-sections,
 
 The resulting profiles and annotated outputs supported engineering assessment and maintenance planning with an objective geometric record.
 
-**Methods:** LiDAR · Cross-sections · Longitudinal profiles · Geometric comparison · Technical reporting
+**Methods:** LiDAR Â· Cross-sections Â· Longitudinal profiles Â· Geometric comparison Â· Technical reporting
 
 ## UAV vegetation analysis and machine learning
 
@@ -58,7 +56,7 @@ I processed UAV imagery into orthomosaics and point clouds, trained an object-de
 
 This university capstone connected image preparation, supervised model training, spatial analysis, and field validation. It is an important part of my interest in building practical tools around geospatial machine learning.
 
-**Methods:** UAV imagery · Photogrammetry · Object detection · GIS integration · GNSS validation
+**Methods:** UAV imagery Â· Photogrammetry Â· Object detection Â· GIS integration Â· GNSS validation
 
 ## Volumetric analysis in constrained infrastructure
 
@@ -68,7 +66,7 @@ I processed 3D survey data, including photogrammetry derived from video, into al
 
 The focus was on making the calculation and its spatial context understandable to the people using the result.
 
-**Methods:** Photogrammetry · Point-cloud alignment · Surface extraction · Cut-and-fill analysis
+**Methods:** Photogrammetry Â· Point-cloud alignment Â· Surface extraction Â· Cut-and-fill analysis
 
 ## Inspect the geometry yourself
 
@@ -78,4 +76,4 @@ The focus was on making the calculation and its spatial context understandable t
 
 Working through these projects has shaped what I build now: tools that keep evidence organised, reduce repeated processing, and make the route from capture to a finished deliverable more direct.
 
-[Explore my software projects](PROJECTS.md) · [Back to my profile](https://github.com/elliottcromer4-beep) · [LinkedIn](https://www.linkedin.com/in/elliott-cromer-a7a9761a7/)
+[Explore my software projects](PROJECTS.md) Â· [Back to my profile](https://github.com/elliottcromer4-beep) Â· [LinkedIn](https://www.linkedin.com/in/elliott-cromer-a7a9761a7/)

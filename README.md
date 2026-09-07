@@ -16,17 +16,17 @@ I love open-source software. When a routine task needs an expensive subscription
 
 Free tools and paid expertise can work together. I offer custom development, integration, and geospatial support for people who need a solution fitted to their work. Signal Audio and WorkTrack are already MIT-licensed; my other featured tools are at different stages of development.
 
-## Explore a real survey in 3D
+## Transmission tower LiDAR
 
-[![Animated view of 43,523 survey points in local coordinates](https://raw.githubusercontent.com/elliottcromer4-beep/elliottcromer4-beep/main/survey-cloud.gif)](https://github.com/elliottcromer4-beep/elliottcromer4-beep/blob/main/survey-cloud-3d.stl)
+[![Animated view of 55,000 LiDAR points in local coordinates](https://raw.githubusercontent.com/elliottcromer4-beep/elliottcromer4-beep/main/survey-cloud.gif)](https://github.com/elliottcromer4-beep/elliottcromer4-beep/blob/main/survey-cloud-3d.stl)
 
 **[Rotate and explore the 3D scan →](https://github.com/elliottcromer4-beep/elliottcromer4-beep/blob/main/survey-cloud-3d.stl)** · [Static preview](https://github.com/elliottcromer4-beep/elliottcromer4-beep/blob/main/survey-cloud-preview.png) · [About this dataset](https://github.com/elliottcromer4-beep/elliottcromer4-beep/blob/main/SHOWCASE.md)
 
-The animation uses real survey geometry from my portfolio. The interactive version uses a lighter sample rendered as point markers. Coordinates are local; colours show relative elevation, not defect severity.
+Explore the tower structure in three dimensions. Height colouring separates its levels and connections; the interactive view lets you rotate and inspect the geometry.
 
 ## From capture to clearer decisions
 
-Selected images from my anonymised professional portfolio. Click a figure to inspect it at full size.
+LiDAR, sonar and spatial analysis for infrastructure assessment. Click a figure to inspect it at full size.
 
 <table>
   <tr>
