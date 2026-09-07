@@ -6,6 +6,8 @@ They describe my professional experience. Client datasets, asset identifiers, an
 
 ## Structural deformation and alignment
 
+![LiDAR surface deviation analysis](structural-deformation.png)
+
 **The task:** Measure geometric irregularities that are difficult to assess through visual inspection alone.
 
 I processed terrestrial LiDAR into registered, cleaned, and segmented point clouds, then measured deviations against reference planes and control geometry. Colour-mapped deviations, sectional profiles, and annotated outputs made sag, uplift, lean, and alignment differences easier to interpret.
@@ -16,6 +18,8 @@ Related hydropower work involved isolating structural and mechanical features an
 
 ## Marine ROV and sonar inspection
 
+![3D sonar views of submerged infrastructure](sonar-inspection.png)
+
 **The task:** Inspect and measure submerged infrastructure where access and visibility limit conventional inspection.
 
 I worked with ROV-based sonar and video capture, processing sonar-derived point clouds to identify structural elements, debris, and spatial relationships. Measurements and annotated visuals connected the survey data to condition reporting and engineering assessment.
@@ -25,6 +29,8 @@ This work required understanding both the limitations of field capture and the p
 **Methods:** ROV operations · 3D sonar · Video review · Point-cloud processing · Condition reporting
 
 ## Integrated terrain and bathymetric modelling
+
+![Integrated terrain and bathymetric surface](terrain-bathymetry.jpg)
 
 **The task:** Produce a continuous surface across land and submerged areas from different survey systems.
 
@@ -63,6 +69,10 @@ I processed 3D survey data, including photogrammetry derived from video, into al
 The focus was on making the calculation and its spatial context understandable to the people using the result.
 
 **Methods:** Photogrammetry · Point-cloud alignment · Surface extraction · Cut-and-fill analysis
+
+## Inspect the geometry yourself
+
+[Explore a real survey point cloud in 3D](SHOWCASE.md), or [discuss a project](WORK-WITH-ME.md).
 
 ## From analysis to software
 

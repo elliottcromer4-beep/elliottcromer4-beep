@@ -2,7 +2,7 @@
 
 I build software around tasks I encounter in geospatial and professional work. The common aim is to reduce manual steps while keeping the underlying information clear and usable.
 
-Signal Audio has a public source repository. The remaining write-ups describe projects in active development whose source and downloads are not published here.
+Signal Audio and WorkTrack have public source repositories. The remaining write-ups describe projects in active development whose source and downloads are not published here.
 
 ## Signal Audio
 
@@ -86,8 +86,13 @@ The aim is to shorten the path from doing the work to producing a clear timeshee
 
 **Built with:** Python, CustomTkinter, SQLite, ReportLab, and openpyxl.
 
-**Status:** Working desktop application, with ongoing development.
+**Status:** Public, MIT-licensed desktop application, with ongoing development.
+
+[View WorkTrack on GitHub](https://github.com/elliottcromer4-beep/WorkTrack)
 
 ---
 
 [Back to my profile](https://github.com/elliottcromer4-beep) · [Geospatial portfolio](PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/in/elliott-cromer-a7a9761a7/)
+
+
+[Have a workflow to improve? Work with me →](WORK-WITH-ME.md)
