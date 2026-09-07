@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Elliott Cromer — Geospatial analysis and practical software</title>
+  <desc id="desc">A dark navy banner with teal survey contours and a simple field-to-deliverable workflow.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101f2b"/><stop offset="1" stop-color="#173c43"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#bdd7da" stroke-opacity=".055"/></pattern>
+    <clipPath id="bounds"><rect width="1200" height="300" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <g fill="none" stroke="#72c8bf" stroke-width="1.5" opacity=".35">
+      <path d="M820 -40C750 30 790 98 874 123S1007 130 986 217 1060 300 1215 270"/>
+      <path d="M852 -40C782 30 817 76 901 103S1035 133 1017 213 1088 273 1225 245"/>
+      <path d="M884 -40C814 30 845 54 928 83S1063 135 1048 209 1116 246 1235 220"/>
+      <path d="M916 -40C846 30 873 32 955 63S1091 137 1079 205 1144 219 1245 195"/>
+      <path d="M948 -40C878 30 901 10 982 43S1119 139 1110 201 1172 192 1255 170"/>
+      <path d="M788 -40C718 30 763 120 847 143S979 128 955 221 1032 327 1205 295"/>
+      <path d="M756 -40C686 30 735 142 820 163S951 126 924 225 1004 354 1195 320"/>
+    </g>
+    <rect x="54" y="50" width="40" height="4" rx="2" fill="#8cddd0"/>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="54" y="115" fill="#f2f7f8" font-size="46" font-weight="650">Elliott Cromer</text>
+      <text x="56" y="158" fill="#c2d6dc" font-size="23">Geospatial analysis &amp; practical software</text>
+      <text x="56" y="244" fill="#92d8cc" font-size="15" letter-spacing="2">FIELD DATA</text>
+      <path d="M173 239H210m-5-4 5 4-5 4" fill="none" stroke="#92d8cc"/>
+      <text x="230" y="244" fill="#92d8cc" font-size="15" letter-spacing="2">USEFUL TOOLS</text>
+      <path d="M386 239H423m-5-4 5 4-5 4" fill="none" stroke="#92d8cc"/>
+      <text x="443" y="244" fill="#92d8cc" font-size="15" letter-spacing="2">CLEAR DELIVERABLES</text>
+    </g>
+  </g>
+</svg>
